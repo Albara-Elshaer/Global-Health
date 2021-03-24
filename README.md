@@ -1,1 +1,1 @@
-# Global-Health
+In this mini project. I analyze global data on fetrility rates aganist other features to get a better understanding on what could influence population growth. I cleaned the data and run a couple of statistical tests. 
